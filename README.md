@@ -3,7 +3,9 @@ here is the output of this react app
 
 ![Screenshot (222)](https://github.com/Anjali-game/Cryptocurrency-app/assets/136882525/c8156e46-bac3-40b6-bfc7-16bececf562d)
 
+![Screenshot (221)](https://github.com/Anjali-game/Cryptocurrency-app/assets/136882525/8c78bd2a-b426-484d-bf5e-f02d5bbbf5c9)
 
+![Screenshot (220)](https://github.com/Anjali-game/Cryptocurrency-app/assets/136882525/30aa4890-c1ac-4c64-aa70-93a262ed548a)
 
 
 # Getting Started with Create React App
