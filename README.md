@@ -1,3 +1,11 @@
+here is the output of this react app
+
+
+![Screenshot (222)](https://github.com/Anjali-game/Cryptocurrency-app/assets/136882525/c8156e46-bac3-40b6-bfc7-16bececf562d)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
